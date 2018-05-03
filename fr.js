@@ -97,6 +97,9 @@ module.exports = {
   faq: {
     title: 'Foire Aux Questions',
     fields: [{
+      name: 'How do I get a message ID?',
+      value: 'If on PC, make sure developer mode is enabled. Once it\'s enabled, go to the three dots on the right side of the message that you want the ID for, then click Message ID in the drop-down menu.\n\nIf on Android, ensure that developer mode is enabled. Then, press and hold down on the message you want the ID for. From there, scroll down (if you have to) to find the Message ID button. Click on it, and it will be copied to your clipboard.\n\niOS will never have this feature due to limitations of the OS preventing this from being a feature.',
+    }, {
       name: 'Lorsque je rentre une commande Zira ne répond pas',
       value: 'Veuillez vérifier que Zira a les permissions `Intégrer des liens` et `Envoyer des messages` dans le salon où vous rentrez les commandes.',
     }, {
