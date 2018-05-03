@@ -98,7 +98,7 @@ module.exports = {
     title: 'Frequently Asked Questions',
     fields: [{
       name: 'How do I get a message ID?',
-      value: 'If on PC, make sure developer mode is enabled. Once it\'s enabled, go to the three dots on the right side of the message that you want the ID for, then click Message ID in the drop-down menu.\n\nIf on Android, ensure that developer mode is enabled. Then, press and hold down on the message you want the ID for. From there, scroll down (if you have to) to find the Message ID button. Click on it, and it will be copied to your clipboard.\n\niOS will never have this feature due to limitations of the OS preventing this from being a feature.',
+      value: 'On PC, make sure developer mode is enabled on User Settings --> Appearance. Once it\'s enabled, go to the three dots on the right side of the message that you want the ID for, then click Copy ID in the drop-down menu.\n\nOn Android, ensure that developer mode is enabled on User Settings --> Behavior. Then, press and hold down on the message you want the ID for. From there, scroll down (if you have to) to find the Copy ID button. Click on it, and it will be copied to your clipboard.\n\niOS will never have this feature due to limitations of the OS preventing this from being a feature.',
     }, {
       name: 'Whenever I do commands, Zira doesn\'t send messages, what do I do?',
       value: 'Make sure Zira has permission to embed links and send messages in the channel you are trying the commands in.',
