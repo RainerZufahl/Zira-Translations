@@ -97,8 +97,8 @@ module.exports = {
   faq: {
     title: 'Preguntas frecuentes',
     fields: [{
-      name: 'How do I get a message ID?',
-      value: 'On PC, make sure developer mode is enabled on User Settings --> Appearance. Once it\'s enabled, go to the three dots on the right side of the message that you want the ID for, then click Copy ID in the drop-down menu.\n\nOn Android, ensure that developer mode is enabled on User Settings --> Behavior. Then, press and hold down on the message you want the ID for. From there, scroll down (if you have to) to find the Copy ID button. Click on it, and it will be copied to your clipboard.\n\niOS will never have this feature due to limitations of the OS preventing this from being a feature.',
+      name: '¿Cómo consigo el ID de un mensaje?',
+      value: 'En PC, asegúrate que el Modo Desarrollador está activado en Ajustes de Usuario --> Apariencia. Una vez activado, ve a los tres puntos en el lado derecho del mensaje que quieres conseguir el ID y haz clic en Copiar ID en el menú.\n\nEn Android, asegúrate que el Modo Desarrollador está activado en los Ajustes de Usuario --> Comportamiento, luego mantén presionado el mensaje que quieres conseguir el ID y baja (si necesitas) para encontrar el botón Copiar ID, tócalo y el ID será copiado a tu portapapales.\n\niOS nunca tendrá esta característica debido a las limitaciones del sistema operativo.',
     }, {
       name: 'Cuando uso los comandos, Zira no envía mensajes, ¿qué hago?',
       value: 'Asegúrate de que Zira tiene el permiso `Insertar enlaces` y `Enviar Mensajes` en el canal donde estás probando los comandos.',
